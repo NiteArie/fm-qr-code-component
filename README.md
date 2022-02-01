@@ -4,6 +4,10 @@
 
 URL: [https://nitearie.github.io/fm-qr-code-component/](https://nitearie.github.io/fm-qr-code-component/)
 
+## Design
+
+![Design Preview](./design/desktop-preview.jpg)
+
 ## Challenge
 
 Your challenge is to build out this QR code component and get it looking as close to the design as possible.
