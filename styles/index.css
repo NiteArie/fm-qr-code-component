@@ -9,11 +9,14 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 
+.container__card {
+    margin: 20vh auto;
+}
+
 .card {
     max-width: 300px;
     padding: 16px;
     border-radius: 16px;
-    margin: 20vh auto;
     background-color: hsl(0, 0%, 100%);
     text-align: center;
     box-shadow: 0 2px 10px 0px hsla(0, 0%, 0%, 0.1);
